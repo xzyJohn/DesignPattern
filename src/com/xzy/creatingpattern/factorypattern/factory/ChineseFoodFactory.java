@@ -1,7 +1,7 @@
 package com.xzy.creatingpattern.factorypattern.factory;
 
 /**
- * 生产中国食物
+ * 生产中国食物的工厂
  *
  * @author xzy
  * @date 2019/8/14 14:03

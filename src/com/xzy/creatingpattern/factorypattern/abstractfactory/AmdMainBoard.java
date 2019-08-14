@@ -1,6 +1,7 @@
 package com.xzy.creatingpattern.factorypattern.abstractfactory;
 
 /**
+ * 生产Amd的主板
  * @author xzy
  * @date 2019/8/14 14:37
  */

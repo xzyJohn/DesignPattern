@@ -1,6 +1,7 @@
 package com.xzy.creatingpattern.factorypattern.simplefactory;
 
 /**
+ * 测试类
  * @author xzy
  * @date 2019/8/14 13:25
  */
