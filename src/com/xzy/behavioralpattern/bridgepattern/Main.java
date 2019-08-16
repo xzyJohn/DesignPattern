@@ -1,6 +1,7 @@
 package com.xzy.behavioralpattern.bridgepattern;
 
 /**
+ * 测试类
  * @author xzy
  * @date 2019/8/15 15:19
  */

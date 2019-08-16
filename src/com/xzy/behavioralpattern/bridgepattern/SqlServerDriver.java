@@ -1,6 +1,7 @@
 package com.xzy.behavioralpattern.bridgepattern;
 
 /**
+ * 连接SqlServer
  * @author xzy
  * @date 2019/8/15 15:14
  */
