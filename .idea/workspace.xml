@@ -4,47 +4,31 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dc1de35-6d38-47b9-b8f1-356fac3d6170" name="Default Changelist" comment="commit code">
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Composite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Leaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/decoratorpattern/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/decoratorpattern/DecoratorOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/decoratorpattern/DecoratorThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/decoratorpattern/DecoratorTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/decoratorpattern/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/decoratorpattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/decoratorpattern/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/facadepattern/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/facadepattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/facadepattern/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/facadepattern/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/facadepattern/ShapeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/facadepattern/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/flyweightpattern/ConcreteFlyWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/flyweightpattern/FlyWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/flyweightpattern/FlyWeightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/flyweightpattern/FlyWeightPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/flyweightpattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/FoodService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/FoodServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/FoodServiceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Noodle.java" afterDir="false" />
+    <list default="true" id="6dc1de35-6d38-47b9-b8f1-356fac3d6170" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/DeptManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/GeneralManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/ProjectManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/CommandChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/CommandOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/CommandOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Aggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/ConcreteAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Aggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/ConcreteAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/ConcreteIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/Bridge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/Bridge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/MyBridge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/MyBridge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/MysqlDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/MysqlDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/SqlServerDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design Pattern/com/xzy/behavioralpattern/bridgepattern/SqlServerDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Bridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Bridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/MyBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/MyBridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/MysqlDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/MysqlDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/SqlServerDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/SqlServerDriver.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,108 +43,117 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/flyweightpattern/FlyWeightFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/ConcreteAggregate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/flyweightpattern/FlyWeightPattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="33" column="53" lean-forward="true" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/flyweightpattern/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/FoodService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/FoodServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Iterator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-              <folding>
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-              </folding>
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/FoodServiceProxy.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="307">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Food.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Aggregate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state relative-caret-position="175">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Chicken.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/ConcreteAggregate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="525">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding>
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+                <element signature="e#935#936#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="10" column="85" lean-forward="true" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Noodle.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Iterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/ConcreteIterator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding>
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#858#859#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,29 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/xzy/creatingpattern/prototypepattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/creatingpattern/prototypepattern/Prototype.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/Adaptee.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/ConcreteTarget.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/Adapter.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/Target.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/creatingpattern/builderpattern/ProductHouse.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/classadapter/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/Target.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/Adaptee.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/Adapter.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/ConcreteTarget.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/classadapter/package-info.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/package-info.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Driver.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Component.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Leaf.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Composite.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/decoratorpattern/Human.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/decoratorpattern/Decorator.java" />
-        <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Main.java" />
         <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/SqlServerDriver.java" />
         <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/MysqlDriver.java" />
         <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Bridge.java" />
@@ -233,14 +203,36 @@
         <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Food.java" />
         <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/FoodServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/FoodServiceProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/Handler.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/ProjectManager.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/GeneralManage.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/DeptManage.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Command.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Tv.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/CommandOn.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/CommandOff.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/CommandChange.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Control.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Aggregate.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/ConcreteAggregate.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/ConcreteIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Aggregate.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Iterator.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/ConcreteAggregate.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Client.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -251,7 +243,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,10 +261,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="xzy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Design Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xzy" type="462c0819:PsiDirectoryNode" />
+              <item name="structuralpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,19 +286,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.xzy.SimpleFactory" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.xzy.behavioralpattern.adapterpattern.objectadapter" />
-      <recent name="com.xzy.FactoryPattern.Factory" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ideaworkspace\Design Pattern\src\com\xzy\behavioralpattern\adapterpattern\objectadapter" />
       <recent name="D:\ideaworkspace\Design Pattern\src\com\xzy\behavioralpattern\adapterpattern\classadapter" />
       <recent name="D:\ideaworkspace\Design Pattern\src\com\xzy\creatingpattern\singletonpattern\lazysingleton" />
       <recent name="D:\ideaworkspace\Design Pattern\src\com\xzy\creatingpattern\singletonpattern\hungrysingleton" />
       <recent name="D:\ideaworkspace\Design Pattern\src\com\xzy\creatingpattern\prototypepattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xzy.structuralpattern.iteratorpattern.black" />
+      <recent name="com.xzy.behavioralpattern.adapterpattern.objectadapter" />
+      <recent name="com.xzy.FactoryPattern.Factory" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xzy.SimpleFactory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -314,20 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzy.behavioralpattern.flyweightpattern.Main" />
-      <module name="Design Pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xzy.behavioralpattern.flyweightpattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xzy.behavioralpattern.proxypattern.Main" />
       <module name="Design Pattern" />
@@ -341,12 +328,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzy.behavioralpattern.compositepattern.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzy.structuralpattern.chainofresponsibilitypattern.Main" />
       <module name="Design Pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzy.behavioralpattern.compositepattern.*" />
+          <option name="PATTERN" value="com.xzy.structuralpattern.chainofresponsibilitypattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzy.structuralpattern.commandpattern.Main" />
+      <module name="Design Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xzy.structuralpattern.commandpattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,11 +355,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzy.behavioralpattern.decoratorpattern.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.xzy.structuralpattern.iteratorpattern.white.Main" />
       <module name="Design Pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzy.behavioralpattern.decoratorpattern.*" />
+          <option name="PATTERN" value="com.xzy.structuralpattern.iteratorpattern.white.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,11 +368,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzy.behavioralpattern.facadepattern.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.xzy.structuralpattern.iteratorpattern.black.Main" />
       <module name="Design Pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xzy.behavioralpattern.facadepattern.*" />
+          <option name="PATTERN" value="com.xzy.structuralpattern.iteratorpattern.black.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -447,11 +447,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +472,8 @@
       <workItem from="1565831894430" duration="8163000" />
       <workItem from="1565856713343" duration="255000" />
       <workItem from="1565857796350" duration="2789000" />
-      <workItem from="1565933476399" duration="8603000" />
+      <workItem from="1565933476399" duration="11339000" />
+      <workItem from="1566007167553" duration="8596000" />
     </task>
     <task id="LOCAL-00001" summary="design pattern">
       <created>1565769352909</created>
@@ -488,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565777187816</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit code">
+      <created>1565943856687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565943856687</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35088000" />
+    <option name="totallyTimeSpent" value="46420000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -506,7 +514,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -515,7 +523,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32786885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -586,210 +594,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit code" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/creatingpattern/singletonpattern/hungrysingleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/creatingpattern/singletonpattern/lazysingleton/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="63" lean-forward="true" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/creatingpattern/singletonpattern/lazysingleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/Adaptee.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/ConcreteTarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/objectadapter/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/classadapter/Adaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/classadapter/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/classadapter/ConcreteTarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/classadapter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/classadapter/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/adapterpattern/classadapter/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Bridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/MyBridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/MysqlDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/SqlServerDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/bridgepattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Composite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#241#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/compositepattern/Leaf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -1010,7 +814,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/FoodService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1018,12 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1037,7 +835,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/xzy/behavioralpattern/proxypattern/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -1045,10 +843,229 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/ProjectManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/GeneralManage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/chainofresponsibilitypattern/DeptManage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Tv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/CommandOn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/CommandOff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/CommandChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding>
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/commandpattern/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/qqq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Aggregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/ConcreteAggregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/ConcreteIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/white/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Aggregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/ConcreteAggregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="85" lean-forward="true" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xzy/structuralpattern/iteratorpattern/black/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
